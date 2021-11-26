@@ -1,3 +1,4 @@
 /Users/paminna/CLionProjects/cpp02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/paminna/CLionProjects/cpp02/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/paminna/CLionProjects/cpp02/cmake-build-debug/CMakeFiles/cpp02.dir
+/Users/paminna/CLionProjects/cpp02/cmake-build-debug/CMakeFiles/ex01.dir
+/Users/paminna/CLionProjects/cpp02/cmake-build-debug/CMakeFiles/ex00.dir

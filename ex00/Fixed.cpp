@@ -2,7 +2,8 @@
 // Created by Paladin Minna on 11/26/21.
 //
 #include <iostream>
-#include "Fixed.hpp"
+#include "../ex00/Fixed.hpp"
+
 
 Fixed::Fixed() {
     std::cout << "Default contructor called" << std::endl;
@@ -34,5 +35,6 @@ void Fixed::setRawBits(const int raw) {
     std::cout << "setRawBits member function called" << std::endl;
     this->val = raw;
 }
+
 
 
