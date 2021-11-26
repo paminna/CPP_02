@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/paminna/CLionProjects/cpp02/Fixed.cpp
+iostream
+-
+Fixed.hpp
+/Users/paminna/CLionProjects/cpp02/Fixed.hpp
+
+/Users/paminna/CLionProjects/cpp02/Fixed.hpp
+
